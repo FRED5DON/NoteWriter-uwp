@@ -1,0 +1,1 @@
+c:\users\freddon\documents\visual studio 2013\Projects\NoteWriter\NoteWriter\NoteWriter.Windows\NoteWriter.Windows.jsproj;neutral

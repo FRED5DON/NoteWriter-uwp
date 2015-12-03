@@ -1,0 +1,15 @@
+c:\users\freddon\documents\visual studio 2013\Projects\NoteWriter\NoteWriter\NoteWriter.Windows\bin\Debug\ReverseMap\resources.pri
+c:\users\freddon\documents\visual studio 2013\Projects\NoteWriter\NoteWriter\NoteWriter.Windows\bin\Debug\AppxManifest.xml
+c:\users\freddon\documents\visual studio 2013\Projects\NoteWriter\NoteWriter\NoteWriter.Windows\bin\Debug\NoteWriter.Windows.build.appxrecipe
+c:\users\freddon\documents\visual studio 2013\Projects\NoteWriter\NoteWriter\NoteWriter.Windows\bld\Debug\priconfig.xml
+c:\users\freddon\documents\visual studio 2013\Projects\NoteWriter\NoteWriter\NoteWriter.Windows\bld\Debug\priconfig.xml.intermediate
+c:\users\freddon\documents\visual studio 2013\Projects\NoteWriter\NoteWriter\NoteWriter.Windows\bld\Debug\layout.resfiles
+c:\users\freddon\documents\visual studio 2013\Projects\NoteWriter\NoteWriter\NoteWriter.Windows\bld\Debug\layout.resfiles.intermediate
+c:\users\freddon\documents\visual studio 2013\Projects\NoteWriter\NoteWriter\NoteWriter.Windows\bld\Debug\resources.resfiles
+c:\users\freddon\documents\visual studio 2013\Projects\NoteWriter\NoteWriter\NoteWriter.Windows\bld\Debug\resources.resfiles.intermediate
+c:\users\freddon\documents\visual studio 2013\Projects\NoteWriter\NoteWriter\NoteWriter.Windows\bld\Debug\pri.resfiles
+c:\users\freddon\documents\visual studio 2013\Projects\NoteWriter\NoteWriter\NoteWriter.Windows\bld\Debug\pri.resfiles.intermediate
+c:\users\freddon\documents\visual studio 2013\Projects\NoteWriter\NoteWriter\NoteWriter.Windows\bld\Debug\qualifiers.txt
+c:\users\freddon\documents\visual studio 2013\Projects\NoteWriter\NoteWriter\NoteWriter.Windows\bld\Debug\qualifiers.txt.intermediate
+c:\users\freddon\documents\visual studio 2013\Projects\NoteWriter\NoteWriter\NoteWriter.Windows\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\freddon\documents\visual studio 2013\Projects\NoteWriter\NoteWriter\NoteWriter.Windows\bld\Debug\ProjectArchitectures.txt
